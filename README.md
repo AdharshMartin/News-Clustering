@@ -5,7 +5,7 @@ This project performs **unsupervised clustering** on news text data and extracts
 ---
 
 ## ✨ Features
-- 🌐 Collect news data using a news newsdata.io
+- 🌐 Collect news data using a news API- newsdata.io
 - 📰 Combine `headline` and `description` into a single text field.
 - 🤖 Generate embeddings using `SentenceTransformer`.
 - 🔽 Reduce embeddings with **UMAP**.
